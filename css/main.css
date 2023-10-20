@@ -1,0 +1,76 @@
+body{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    font: normal, normal, normal, normal, 14px, Arial;
+}
+
+.structural{
+    margin: 10px;
+    padding: 10px;
+}
+
+h1{
+    color: rgb(129, 19, 105);
+    font-size: 25px;
+}
+
+h2{
+    color: rgb(10, 88, 105);
+    font-size: 25px;
+}
+
+main{
+    height: 70vh;
+}
+
+figure img{
+    border: 5px solid black;
+    width: 90%;
+    height: 80%;
+}
+
+figure{
+    background-color: aquamarine;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+}
+
+#glassesdog{
+    float: left;
+}
+
+#doggroup{
+float: right;
+}
+
+section{
+    clear:both;
+}
+
+figcaption{
+    font-weight: 2;
+    font-size: 18px;
+    color: rgb(118, 215, 76);
+    padding: 5px;
+}
+
+a{
+    color: rgb(223, 189, 254)
+}
+
+a:hover{
+    color: palegreen
+}
+
+li{
+    list-style-type: square;
+    line-height: 35px;
+}
+
+footer,header{
+    background-color: coral;
+}
+
